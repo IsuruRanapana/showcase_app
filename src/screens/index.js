@@ -3,3 +3,8 @@
 // ***   on 12/14/2022 => 10:57 AM  *** //
 
 
+import Home from './home/Home';
+
+export {
+    Home,
+}
